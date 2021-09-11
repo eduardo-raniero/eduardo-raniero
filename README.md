@@ -1,6 +1,6 @@
 <h1>Olá, colega Dev!</h1>
 <span>Bem-vindo ao perfil deste Dev Front-End, que trabalha tomando <strong>café,</strong> estuda<br>
-  Design tomando <strong>café,</strong> pensando no <strong>café</strong> que vai tomar depois do <strong>café.</strong></span>
+Design tomando <strong>café,</strong> pensando no <strong>café</strong> que vai tomar depois do <strong>café.</strong></span>
 <br>
 <br>
   <img  width="255" height="190" src="https://i.giphy.com/media/ceeFbVxiZzMBi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/ceeFbVxiZzMBi.gif';" alt="">
