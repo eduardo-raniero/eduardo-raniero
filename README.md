@@ -1,5 +1,5 @@
 <h1>Olá, colega Dev!</h1>
-<span>Bem-vindo ao perfil deste Dev que trabalha tomando <strong>café,</strong> estuda<br>
+<span>Bem-vindo ao perfil deste Dev Front-End, que trabalha tomando <strong>café,</strong> estuda<br>
 Design tomando <strong>café,</strong> pensando no café que vai tomar depois do <strong>café.</strong></span>
 <br>
 <br>
