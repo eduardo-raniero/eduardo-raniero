@@ -1,10 +1,11 @@
 <h1>Olá, colega Dev!</h1>
-<span>Bem-vindo ao perfil deste Dev que trabalha tomando café, estuda<br>
-Design tomando <strong>café,</strong> pensando no café que vai tomar depois do café.</span>
-<br>
+<span>Bem-vindo ao perfil deste Dev que trabalha tomando <strong>café,</strong> estuda<br>
+Design tomando <strong>café,</strong> pensando no café que vai tomar depois do <strong>café.</strong></span>
 
-<div width="250" height="187">
- <img src="https://i.giphy.com/media/ceeFbVxiZzMBi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/ceeFbVxiZzMBi.gif';" alt=""> 
+<div>
+ <p>
+  <img  width="255" height="190" src="https://i.giphy.com/media/ceeFbVxiZzMBi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/ceeFbVxiZzMBi.gif';" alt="">
+ </p>
 </div>
 
 
