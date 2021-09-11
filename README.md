@@ -5,7 +5,7 @@ Design tomando <strong>café,</strong> pensando no café que vai tomar depois do
 <br>
   <img  width="255" height="190" src="https://i.giphy.com/media/ceeFbVxiZzMBi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/ceeFbVxiZzMBi.gif';" alt="">
  
-<h3>O que mais utilizo:</h3>
+<h2>O que mais utilizo:</h2>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
