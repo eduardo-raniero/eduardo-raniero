@@ -1,5 +1,5 @@
 <h1>"Hello there"</h1>
-<span>Welcome to the profile of a Front-End Dev, who works drinking<strong> coffee, </strong>and who studies Design thinking about the <strong>coffee</strong> he will drink after this coffee. </span>
+<span>Welcome to the profile of a Front-End Dev, who works drinking<strong> coffee, </strong>and who studies Design thinking about the <strong>coffee</strong> he will drink after this <strong>coffee.</strong> </span>
 <br>
 <br>
   <img  width="235" height="175" src="https://i.giphy.com/media/ceeFbVxiZzMBi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/ceeFbVxiZzMBi.gif';" alt="">
