@@ -1,10 +1,14 @@
 <h1>"Hello there"</h1>
-<span>Welcome to the profile of a Front-End Dev, who works drinking<strong> coffee, </strong>and who studies Design thinking about the <strong>coffee</strong> he will drink after this <strong>coffee.</strong> </span>
-<br>
-<br>
+<p>Bem-vindo neste perfil desse Dev. Front-End que trabalha bebendo<strong> café, </strong>que <br> estuda Design pensando no<strong>café</strong> que vai tomar depois desse <strong>café.</strong></p>
+
   <img  width="235" height="175" src="https://i.giphy.com/media/ceeFbVxiZzMBi/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/ceeFbVxiZzMBi.gif';" alt="">
- 
-<h2>Tools i use</h2>
+<p>Brincadeiras à parte, tenho:
+  <li>Forte background no Design Gráfico;</li> 
+  <li>Gosto de solucionar problemas;</li>
+  <li>Não tenho medo do Back-End. Estudo Node.JS, mas ainda não tenho muita experiência</li>
+</p>
+
+<h2>Desenvolvo usando:</h2>
 <div style="display: inline_block">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
